@@ -1,6 +1,5 @@
 :root{
---primary-color:  rgb(90, 212, 243);
---primary-color-darker:  rgb(20, 127, 153);
+--primary-color:  #ff8811;
 }
 *{
     outline: 0;
@@ -21,38 +20,9 @@ body{
     background-color: #FDFDFD;
     border-radius: 20px;
 }
-
-form input, form label, form button{
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
-}
-form input{
-    font-size: 24px;
-    height: 30px;
-    padding: 0 20px;
-}
-form input:focus{
-    outline:1px solid var(--primary-color);
-
-}
-form button{
-    border:none;
-    background-color: var(--primary-color);
-    color:white;
-    font-size: 18px;
-    font-weight: bold;
-    height: 50px;
-    cursor: pointer;
-    margin-top: 30px;
-    
-}
-form button:hover{
-    background-color: var(--primary-color-darker);
-}
 .relogio{
     font-size: 2em;
 }
 .pausa{
-    color: red;
+    color: #ff0000;
 }
