@@ -1,2 +1,11 @@
-# js-cronometro
-Cronômetro em JavaScript feita no curso de JavaScript e Typescript do professor Luiz Otávio Miranda. 
+# Timer com JavaScript ⏲️
+Cronômetro em JavaScript.
+
+## Funcionalidades
+- Iniciar 
+- Pausar (muda a cor)
+- Zerar 
+
+## Conteúdos reforçados
+- setInterval, setTimeout, clearInterval
+- objeto Date 
